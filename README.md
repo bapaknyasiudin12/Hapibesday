@@ -9,6 +9,8 @@
 
 ⬇️ **[Download hapibesday] (https://github.com/bapaknyasiudin12/Hapibesday/releases/download/v1.0.0/hapibesday.exe).**  
 
+[![Download](https://img.shields.io/badge/Download-hapibesday.exe-blue?style=for-the-badge)](https://github.com/bapaknyasiudin12/Hapibesday/releases/download/v1.0.0/hapibesday.exe)
+
 ---
 
 ## 🔐 SHA-256 Checksum
