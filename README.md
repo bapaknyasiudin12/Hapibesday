@@ -30,7 +30,7 @@ sha256:91f727b5ea0109137a4fdd62ca1872a79d96e25fadbbaebae7fce737e253a4bc
 
 ## 🚀 Fitur Utama
 
-- ✅ **Backup database XAMPP secara otomatis**
+- ✅ **Backup database**
 - ✅ **Restore database**
 - ✅ **Buat database baru (reset MySQL) secara aman**
 - ✅ **Log file lengkap (`hapibesday.log`)**
