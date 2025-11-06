@@ -44,7 +44,7 @@ Jika tidak, program akan menolak berjalan.
 
 ### 2️⃣ **Pilih Menu**
 
-Saat EXE dibuka, akan muncul menu seperti ini:
+Saat `hapibesday.exe` dibuka, akan muncul menu seperti ini:
 
 - Backup Database
 - Buat Database Baru
