@@ -7,13 +7,10 @@
 
 ## 📥 Download
 
-⬇️ **[Download hapibesday] (https://github.com/bapaknyasiudin12/Hapibesday/releases/download/v1.0.0/hapibesday.exe).**  
-
-[![Download](https://img.shields.io/badge/Download-hapibesday.exe-1e90ff?style=for-the-badge&logo=database&logoColor=white)](https://github.com/bapaknyasiudin12/Hapibesday/releases/download/v1.0.0/hapibesday.exe)
-
-
+⬇️ **[Download hapibesday]**  
 
 [![Download](https://img.shields.io/badge/Download-hapibesday.exe-blue?style=for-the-badge)](https://github.com/bapaknyasiudin12/Hapibesday/releases/download/v1.0.0/hapibesday.exe)
+[![Download](https://img.shields.io/badge/Download-hapibesday.exe-blue?style=for-the-badge)](https://github.com/bapaknyasiudin12/Hapibesday/releases/download/v1.0.0/hapibesday.1.0.0.rar)
 
 ---
 
