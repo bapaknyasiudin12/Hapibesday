@@ -19,9 +19,11 @@
 Untuk memastikan integritas file setelah di-download, cocokkan hash berikut:
 
 **hapibesday.exe**
+
 sha256:9400d14e51463f94793abbc29df944d357e1938e823f04c296dffa503bfa967e
 
 **hapibesday.zip**
+
 sha256:91f727b5ea0109137a4fdd62ca1872a79d96e25fadbbaebae7fce737e253a4bc
 
 ---
