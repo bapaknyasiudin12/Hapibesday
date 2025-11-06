@@ -13,11 +13,11 @@
 
 ## 🚀 Fitur Utama
 
-✅ **Backup database XAMPP secara otomatis**
-✅ **Restore database**
-✅ **Buat database baru (reset MySQL) secara aman**
-✅ **Log file lengkap (`hapibesday.log`)**
-✅ **Mudah digunakan, tidak perlu instal apapun**
+- ✅ **Backup database XAMPP secara otomatis**
+- ✅ **Restore database**
+- ✅ **Buat database baru (reset MySQL) secara aman**
+- ✅ **Log file lengkap (`hapibesday.log`)**
+- ✅ **Mudah digunakan, tidak perlu instal apapun**
 
 ---
 
@@ -46,10 +46,10 @@ Jika tidak, program akan menolak berjalan.
 
 Saat EXE dibuka, akan muncul menu seperti ini:
 
-**1.** Backup Database
-**2.** Buat Database Baru
-**3.** Restore Database
-**4.** Exit
+- **1.** Backup Database
+- **2.** Buat Database Baru
+- **3.** Restore Database
+- **4.** Exit
 
 ---
 
