@@ -11,7 +11,7 @@
 
 [![Download](https://img.shields.io/badge/Download-hapibesday.exe-blue?style=for-the-badge)](https://github.com/bapaknyasiudin12/Hapibesday/releases/download/v1.0.0/hapibesday.exe)
 
-[![Download](https://img.shields.io/badge/Download-hapibesday.zip-blue?style=for-the-badge)](https://github.com/bapaknyasiudin12/Hapibesday/releases/download/v1.0.0/hapibesday.1.0.0.zip)
+[![Download](https://img.shields.io/badge/Download-hapibesday.zip-blue?style=for-the-badge)(https://github.com/bapaknyasiudin12/Hapibesday/releases/download/v1.0.0/hapibesday.v1.0.0.zip)
 
 ---
 
@@ -21,8 +21,8 @@ Untuk memastikan integritas file setelah di-download, cocokkan hash berikut:
 **hapibesday.exe**
 sha256:9400d14e51463f94793abbc29df944d357e1938e823f04c296dffa503bfa967e
 
-**hapibesday.rar**
-sha256:9e8da2861d41187d45b43808b004645a9d7814f4e90031f53dcae18069479e8c
+**hapibesday.zip**
+sha256:91f727b5ea0109137a4fdd62ca1872a79d96e25fadbbaebae7fce737e253a4bc
 
 ---
 
