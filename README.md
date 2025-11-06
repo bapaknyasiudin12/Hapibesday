@@ -7,7 +7,18 @@
 
 ## 📥 Download
 
-▶️ **[Download hapibesday.exe](https://github.com/)**  
+⬇️ **[Download hapibesday] (https://github.com/bapaknyasiudin12/Hapibesday/releases/download/v1.0.0/hapibesday.exe).**  
+
+---
+
+## 🔐 SHA-256 Checksum
+Untuk memastikan integritas file setelah di-download, cocokkan hash berikut:
+
+**hapibesday.exe**
+sha256:9400d14e51463f94793abbc29df944d357e1938e823f04c296dffa503bfa967e
+
+**hapibesday.rar**
+sha256:9e8da2861d41187d45b43808b004645a9d7814f4e90031f53dcae18069479e8c
 
 ---
 
