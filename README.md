@@ -1,4 +1,4 @@
-# 🐬 hapibesday.exe  
+# 🐬 hapibesday
 ### Tool Otomatis Backup dan Restore Database MySQL XAMPP
 
 `hapibesday.exe` adalah program Windows yang mempermudah proses **backup**, **restore**, dan **membuat database baru** untuk MySQL pada XAMPP.
