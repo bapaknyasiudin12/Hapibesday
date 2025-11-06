@@ -46,10 +46,10 @@ Jika tidak, program akan menolak berjalan.
 
 Saat EXE dibuka, akan muncul menu seperti ini:
 
-- **1.** Backup Database
-- **2.** Buat Database Baru
-- **3.** Restore Database
-- **4.** Exit
+- Backup Database
+- Buat Database Baru
+- Restore Database
+- Exit
 
 ---
 
@@ -88,7 +88,7 @@ Termasuk:
 ## ✅ Catatan Penting
 
 ⚠ **Pastikan XAMPP MySQL sudah dimatikan sebelum backup/restore.**  
-⚠ Jalankan hapibesday.exe **WAJIB** Mode Administrator. 
+⚠ Jalankan `hapibesday.exe` **WAJIB** Mode Administrator. 
 
 ---
 
